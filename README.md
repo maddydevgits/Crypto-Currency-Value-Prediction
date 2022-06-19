@@ -11,6 +11,7 @@ Cryptocurrency Value Prediction is a Time-Series Forecasting of Bitcoin Crypto C
 2. pip install numpy
 3. pip install plotly
 4. pip install autots
+5. pip install yfinance
 
 # Process
 1. Install softwares
